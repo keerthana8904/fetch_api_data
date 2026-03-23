@@ -14,11 +14,6 @@ fetch("https://jsonplaceholder.typicode.com/users")
                          <hr/>`;
                   
                          container.appendChild(div);
-
-
     })
-
-
-
 
 });
